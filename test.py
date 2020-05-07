@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import pytest
-from src.main.player import Player
-from src.main.game import Game
+from src.main.ref.Player import Player
+from src.main.ref.Game import Game
 
 
 
