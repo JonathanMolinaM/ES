@@ -1,4 +1,4 @@
-from src.main.ref.Player import Player
+import Player
 
 class Game:
     
